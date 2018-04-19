@@ -1,8 +1,8 @@
 Vue + Parcel + Now
 
-Vue - a front-end JavaScript framework
-Parcel - bundler; a light-weight zero-config alternative to Webpack
-Now - deployment tool from Zeit
+- Vue - a front-end JavaScript framework
+- Parcel - bundler; a light-weight zero-config alternative to Webpack
+- Now - deployment tool from Zeit
 
 follow https://alligator.io/vuejs/vue-parceljs/ (up to Running Parcel)
 
@@ -17,6 +17,9 @@ rename .html file to index.html
 now
 
 
+Reference links:
+
+- [Article](https://alligator.io/vuejs/vue-parceljs/)
 
 
 
