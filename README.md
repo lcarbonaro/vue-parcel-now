@@ -8,7 +8,7 @@ npx parcel build  gives you a dist folder to deploy from (del dist to clear any 
 
 cd dist
 
-rename .html files to index.html
+rename .html file to index.html
 
 now
 
